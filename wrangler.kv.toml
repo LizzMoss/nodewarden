@@ -9,7 +9,7 @@ preview_urls = false
 command = "npm run build"
 
 [vars]
-HIDE_WEB_VAULT = "0"
+HIDE_WEB_VAULT = "1"
 
 [assets]
 binding = "ASSETS"
