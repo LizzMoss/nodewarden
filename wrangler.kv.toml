@@ -8,6 +8,9 @@ preview_urls = false
 [build]
 command = "npm run build"
 
+[vars]
+HIDE_WEB_VAULT = "1"
+
 [assets]
 binding = "ASSETS"
 directory = "./dist"
